@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/foodocean.in.github.io/static/css/main.01cd5d8a.chunk.css",
-    "main.js": "/foodocean.in.github.io/static/js/main.c544de2b.chunk.js",
-    "main.js.map": "/foodocean.in.github.io/static/js/main.c544de2b.chunk.js.map",
+    "main.js": "/foodocean.in.github.io/static/js/main.80d746b3.chunk.js",
+    "main.js.map": "/foodocean.in.github.io/static/js/main.80d746b3.chunk.js.map",
     "runtime-main.js": "/foodocean.in.github.io/static/js/runtime-main.ea2340b5.js",
     "runtime-main.js.map": "/foodocean.in.github.io/static/js/runtime-main.ea2340b5.js.map",
-    "static/js/2.e6088ac9.chunk.js": "/foodocean.in.github.io/static/js/2.e6088ac9.chunk.js",
-    "static/js/2.e6088ac9.chunk.js.map": "/foodocean.in.github.io/static/js/2.e6088ac9.chunk.js.map",
+    "static/js/2.5837a9e3.chunk.js": "/foodocean.in.github.io/static/js/2.5837a9e3.chunk.js",
+    "static/js/2.5837a9e3.chunk.js.map": "/foodocean.in.github.io/static/js/2.5837a9e3.chunk.js.map",
     "static/js/3.7305633d.chunk.js": "/foodocean.in.github.io/static/js/3.7305633d.chunk.js",
     "static/js/3.7305633d.chunk.js.map": "/foodocean.in.github.io/static/js/3.7305633d.chunk.js.map",
     "index.html": "/foodocean.in.github.io/index.html",
     "static/css/main.01cd5d8a.chunk.css.map": "/foodocean.in.github.io/static/css/main.01cd5d8a.chunk.css.map",
-    "static/js/2.e6088ac9.chunk.js.LICENSE.txt": "/foodocean.in.github.io/static/js/2.e6088ac9.chunk.js.LICENSE.txt"
+    "static/js/2.5837a9e3.chunk.js.LICENSE.txt": "/foodocean.in.github.io/static/js/2.5837a9e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea2340b5.js",
-    "static/js/2.e6088ac9.chunk.js",
+    "static/js/2.5837a9e3.chunk.js",
     "static/css/main.01cd5d8a.chunk.css",
-    "static/js/main.c544de2b.chunk.js"
+    "static/js/main.80d746b3.chunk.js"
   ]
 }
